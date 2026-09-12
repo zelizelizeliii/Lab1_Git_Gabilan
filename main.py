@@ -1,3 +1,5 @@
 print("Lab 1: Version Control")
 print("Author: Princess Lyndzel L. Gabilan")
 print("Student ID: TUPM-26-2636")
+print("Class Section: BSECE-1D")
+print("Login Feature Enabled")
